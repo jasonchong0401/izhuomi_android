@@ -48,6 +48,12 @@
             android:label="izhuomi">
         </activity>
 
+
+        <activity
+            android:name=".ExpandableListAdapter"
+            android:label="izhuomi">
+        </activity>
+
     </application>
 
 </manifest>
